@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shybit1
 - 👀 I’m interested in AI, ML and Open Source
-- 🌱 I’m currently learning Python and Data Structures
+- 🌱 I’m currently learning Operating Systems
 - 📫 Find me on twitter as @scr1ptsavvy
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shybit1
+- 👋 Hi, I’m Strawberry
 - 👀 I’m interested in AI, ML and Open Source
 - 🌱 I’m currently learning Operating Systems
 - 📫 Find me on twitter as @scr1ptsavvy

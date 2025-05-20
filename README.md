@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Strawberry
 - 👀 I’m interested in AI, ML and Open Source
-- 🌱 I’m currently learning Operating Systems
+- 🌱 I’m currently learning Operating Systems, WebDev
 - 📫 Find me on twitter as @scr1ptsavvy
 
 <!---
